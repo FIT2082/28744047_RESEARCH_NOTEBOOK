@@ -3,7 +3,7 @@
 ## *Project Overview*
 Plant failure prediction, as the name suggests, is the process of estimating the probability of a plant failing. 
 A plant in this context refers to systems such as boilers and chillers that are used every day for several hours. Given that buildings at Monash are highly dependent
-on the seamless functioning of these plants, it is imperative that they are maintained to avoid failure and thus must be monitored regulary.
+on the seamless functioning of these plants, it is imperative that they are maintained to avoid failure and thus must be monitored regularly.
 This reiterates the need for this project, whereby the early prediction of potential plant failures can ensure necessary action is taken by
 building managers to counteract such issues.
 
